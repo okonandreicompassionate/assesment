@@ -5,7 +5,7 @@ export default function Topbar() {
           <h2 className="text-lg font-semibold">
             Dashboard Overview
           </h2>
-            <div className="ml-[600px] -mt-[30px] ">
+            <div className="ml-[600px] -mt-[30px]  ">
 
               <input
               type="text"
